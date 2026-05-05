@@ -1,4 +1,4 @@
-# Hi there! I'm Dmytro 👋
+# Hi there! I'm Dmytro Kuzavkov👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -12,7 +12,14 @@ I am a **Software Engineer** with a **Master's degree in Mathematics** and over 
 
 ---
 
-### 🌑 Featured Project: DoEH (Domains of Endless Hunger)
+### 🚀 Highlighted Project: DoEH (Domains of Endless Hunger)
+[![DoEH Gateway](https://img.shields.io/badge/DoEH_Gateway_Service-007acc?style=for-the-badge&logo=openjdk)](https://github.com/slimslk/doeh_ws)
+[![DoEH Game Server](https://img.shields.io/badge/DoEH_Game_Server-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/slimslk/doeh_gs)
+[![DoEH IAM Service](https://img.shields.io/badge/DoEH_IAM_Service-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/slimslk/doeh_rs)
+[![DoEH Client](https://img.shields.io/badge/DoEH_Game_Client-C0C0C0?style=for-the-badge&logo=python&logoColor=black)](https://github.com/slimslk/doeh_game_client)
+> **Note:** This is my flagship distributed system project.
+
+### 🌑 About the Universe
 **A Dark Fantasy Distributed Online Survival RPG** set across a fractured multiversal structure of interconnected pocket worlds called Domains.
 
 > *"The greatest enemy is not a creature — but the absence of sustenance itself."*
