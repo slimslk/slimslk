@@ -41,8 +41,8 @@ I am a **Software Engineer** with a **Master's degree in Mathematics** and over 
 
 ### 📈 GitHub Stats
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=slimslk&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slimslk&layout=compact&theme=visual_studio_dark&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=slimslk&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&title_color=007acc&text_color=777&icon_color=007acc" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=slimslk&layout=compact&langs_count=6&bg_color=00000000&hide_border=true&title_color=007acc&text_color=777" />
 </p>
 
 ---
